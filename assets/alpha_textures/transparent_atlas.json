@@ -1,0 +1,140 @@
+{
+    "size": {
+        "width": "2048",
+        "height": "2048"
+    },
+    "subtextures": {
+        "blast_wave.png": {
+            "position_x": "900",
+            "position_y": "1024",
+            "width": "512",
+            "height": "256"
+        },
+        "boomerang.png": {
+            "position_x": "900",
+            "position_y": "1856",
+            "width": "128",
+            "height": "128"
+        },
+        "explosion_0.png": {
+            "position_x": "900",
+            "position_y": "1280",
+            "width": "320",
+            "height": "320"
+        },
+        "explosion_1.png": {
+            "position_x": "0",
+            "position_y": "1024",
+            "width": "900",
+            "height": "900"
+        },
+        "frame_ready.png": {
+            "position_x": "900",
+            "position_y": "1600",
+            "width": "256",
+            "height": "256"
+        },
+        "gas_cloud.png": {
+            "position_x": "1024",
+            "position_y": "0",
+            "width": "256",
+            "height": "256"
+        },
+        "leaf.png": {
+            "position_x": "1028",
+            "position_y": "1856",
+            "width": "128",
+            "height": "128"
+        },
+        "particle.png": {
+            "position_x": "1024",
+            "position_y": "256",
+            "width": "256",
+            "height": "256"
+        },
+        "particle_test.png": {
+            "position_x": "1024",
+            "position_y": "512",
+            "width": "256",
+            "height": "256"
+        },
+        "skill_barrage.png": {
+            "position_x": "448",
+            "position_y": "1924",
+            "width": "64",
+            "height": "64"
+        },
+        "skill_black_hole.png": {
+            "position_x": "384",
+            "position_y": "1924",
+            "width": "64",
+            "height": "64"
+        },
+        "skill_boomerang.png": {
+            "position_x": "256",
+            "position_y": "1924",
+            "width": "64",
+            "height": "64"
+        },
+        "skill_grenade.png": {
+            "position_x": "64",
+            "position_y": "1924",
+            "width": "64",
+            "height": "64"
+        },
+        "skill_homing_missle.png": {
+            "position_x": "0",
+            "position_y": "1924",
+            "width": "64",
+            "height": "64"
+        },
+        "skill_plasma.png": {
+            "position_x": "1280",
+            "position_y": "0",
+            "width": "256",
+            "height": "256"
+        },
+        "skill_question_mark.png": {
+            "position_x": "128",
+            "position_y": "1924",
+            "width": "64",
+            "height": "64"
+        },
+        "skill_rocket.png": {
+            "position_x": "192",
+            "position_y": "1924",
+            "width": "64",
+            "height": "64"
+        },
+        "skill_rope.png": {
+            "position_x": "1220",
+            "position_y": "1280",
+            "width": "256",
+            "height": "256"
+        },
+        "skill_shotgun.png": {
+            "position_x": "320",
+            "position_y": "1924",
+            "width": "64",
+            "height": "64"
+        },
+        "skill_speed_booster.png": {
+            "position_x": "1156",
+            "position_y": "1600",
+            "width": "256",
+            "height": "256"
+        },
+        "skill_teleport.png": {
+            "position_x": "1024",
+            "position_y": "768",
+            "width": "256",
+            "height": "256"
+        },
+        "uv_test.png": {
+            "position_x": "0",
+            "position_y": "0",
+            "width": "1024",
+            "height": "1024"
+        }
+    }
+}

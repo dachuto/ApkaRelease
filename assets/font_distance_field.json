@@ -1,0 +1,1152 @@
+{
+    "font":
+    {
+        "ascender": "0.7280273",
+        "descender": "-0.2104492",
+        "distance_between_baselines": "1.088379",
+        "pen_position_vertical_offset": "0.2242456"
+    },
+    "glyphs":
+    {
+        "32":
+        {
+            "advance_x": "0.3417969",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.25",
+            "height": "0.25",
+            "uv_left_bottom_x": "0.06445312",
+            "uv_left_bottom_y": "0.9589844",
+            "uv_width": "0.02734375",
+            "uv_height": "0.02734375"
+        },
+        "33":
+        {
+            "advance_x": "0.2441406",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.3964844",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.7617188",
+            "uv_left_bottom_y": "0.6230469",
+            "uv_width": "0.04296875",
+            "uv_height": "0.1074219"
+        },
+        "34":
+        {
+            "advance_x": "0.3671875",
+            "offset_x": "-0.125",
+            "offset_y": "0.4121094",
+            "width": "0.5429688",
+            "height": "0.4453125",
+            "uv_left_bottom_x": "0.5605469",
+            "uv_left_bottom_y": "0.9453125",
+            "uv_width": "0.05957031",
+            "uv_height": "0.04882812"
+        },
+        "35":
+        {
+            "advance_x": "0.9765625",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "1.146484",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0",
+            "uv_left_bottom_y": "0",
+            "uv_width": "0.1259766",
+            "uv_height": "0.1074219"
+        },
+        "36":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.1757812",
+            "width": "0.8359375",
+            "height": "1.082031",
+            "uv_left_bottom_x": "0.1132812",
+            "uv_left_bottom_y": "0.4941406",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1181641"
+        },
+        "37":
+        {
+            "advance_x": "0.8554688",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "1.03125",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0",
+            "uv_left_bottom_y": "0.4941406",
+            "uv_width": "0.1132812",
+            "uv_height": "0.1074219"
+        },
+        "38":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.3017578",
+            "uv_left_bottom_y": "0.2148438",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "39":
+        {
+            "advance_x": "0.1953125",
+            "offset_x": "-0.125",
+            "offset_y": "0.4121094",
+            "width": "0.3730469",
+            "height": "0.4453125",
+            "uv_left_bottom_x": "0.7382812",
+            "uv_left_bottom_y": "0.9345703",
+            "uv_width": "0.04101562",
+            "uv_height": "0.04882812"
+        },
+        "40":
+        {
+            "advance_x": "0.3417969",
+            "offset_x": "-0.125",
+            "offset_y": "-0.2714844",
+            "width": "0.4941406",
+            "height": "1.275391",
+            "uv_left_bottom_x": "0.7070312",
+            "uv_left_bottom_y": "0.2792969",
+            "uv_width": "0.05371094",
+            "uv_height": "0.1396484"
+        },
+        "41":
+        {
+            "advance_x": "0.3417969",
+            "offset_x": "-0.125",
+            "offset_y": "-0.2714844",
+            "width": "0.4941406",
+            "height": "1.275391",
+            "uv_left_bottom_x": "0.7119141",
+            "uv_left_bottom_y": "0",
+            "uv_width": "0.05371094",
+            "uv_height": "0.1396484"
+        },
+        "42":
+        {
+            "advance_x": "0.4394531",
+            "offset_x": "-0.07617188",
+            "offset_y": "0.3144531",
+            "width": "0.5566406",
+            "height": "0.5429688",
+            "uv_left_bottom_x": "0.2050781",
+            "uv_left_bottom_y": "0.5429688",
+            "uv_width": "0.06054688",
+            "uv_height": "0.05957031"
+        },
+        "43":
+        {
+            "advance_x": "0.5859375",
+            "offset_x": "-0.125",
+            "offset_y": "-0.00390625",
+            "width": "0.7402344",
+            "height": "0.7402344",
+            "uv_left_bottom_x": "0.5771484",
+            "uv_left_bottom_y": "0.0859375",
+            "uv_width": "0.08105469",
+            "uv_height": "0.08105469"
+        },
+        "44":
+        {
+            "advance_x": "0.2441406",
+            "offset_x": "-0.125",
+            "offset_y": "-0.2226562",
+            "width": "0.3964844",
+            "height": "0.4941406",
+            "uv_left_bottom_x": "0.6953125",
+            "uv_left_bottom_y": "0.9345703",
+            "uv_width": "0.04296875",
+            "uv_height": "0.05371094"
+        },
+        "45":
+        {
+            "advance_x": "0.5859375",
+            "offset_x": "-0.125",
+            "offset_y": "0.06835938",
+            "width": "0.7382812",
+            "height": "0.3984375",
+            "uv_left_bottom_x": "0.1181641",
+            "uv_left_bottom_y": "0.4355469",
+            "uv_width": "0.08105469",
+            "uv_height": "0.04296875"
+        },
+        "46":
+        {
+            "advance_x": "0.2441406",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.3964844",
+            "height": "0.3964844",
+            "uv_left_bottom_x": "0.4853516",
+            "uv_left_bottom_y": "0.3867188",
+            "uv_width": "0.04296875",
+            "uv_height": "0.04296875"
+        },
+        "47":
+        {
+            "advance_x": "0.5371094",
+            "offset_x": "-0.125",
+            "offset_y": "-0.1738281",
+            "width": "0.7089844",
+            "height": "1.080078",
+            "uv_left_bottom_x": "0.6416016",
+            "uv_left_bottom_y": "0.4941406",
+            "uv_width": "0.07714844",
+            "uv_height": "0.1181641"
+        },
+        "48":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.2851562",
+            "uv_left_bottom_y": "0.8652344",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "49":
+        {
+            "advance_x": "0.3417969",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.4941406",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.71875",
+            "uv_left_bottom_y": "0.4189453",
+            "uv_width": "0.05371094",
+            "uv_height": "0.1074219"
+        },
+        "50":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.3769531",
+            "uv_left_bottom_y": "0.859375",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "51":
+        {
+            "advance_x": "0.5859375",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.7382812",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.5605469",
+            "uv_left_bottom_y": "0.515625",
+            "uv_width": "0.08105469",
+            "uv_height": "0.1074219"
+        },
+        "52":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.3935547",
+            "uv_left_bottom_y": "0.1074219",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "53":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.3935547",
+            "uv_left_bottom_y": "0.2148438",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "54":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.3935547",
+            "uv_left_bottom_y": "0.3222656",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "55":
+        {
+            "advance_x": "0.5859375",
+            "offset_x": "-0.1269531",
+            "offset_y": "-0.125",
+            "width": "0.7402344",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.5605469",
+            "uv_left_bottom_y": "0.6230469",
+            "uv_width": "0.08105469",
+            "uv_height": "0.1074219"
+        },
+        "56":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.4013672",
+            "uv_left_bottom_y": "0",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "57":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.46875",
+            "uv_left_bottom_y": "0.5371094",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "58":
+        {
+            "advance_x": "0.2441406",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.3964844",
+            "height": "0.6894531",
+            "uv_left_bottom_x": "0.765625",
+            "uv_left_bottom_y": "0.8164062",
+            "uv_width": "0.04296875",
+            "uv_height": "0.07519531"
+        },
+        "59":
+        {
+            "advance_x": "0.2441406",
+            "offset_x": "-0.125",
+            "offset_y": "-0.2226562",
+            "width": "0.3964844",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0.765625",
+            "uv_left_bottom_y": "0.7304688",
+            "uv_width": "0.04296875",
+            "uv_height": "0.0859375"
+        },
+        "60":
+        {
+            "advance_x": "0.5371094",
+            "offset_x": "-0.125",
+            "offset_y": "0.02148438",
+            "width": "0.6914062",
+            "height": "0.6894531",
+            "uv_left_bottom_x": "0.5771484",
+            "uv_left_bottom_y": "0.1669922",
+            "uv_width": "0.07519531",
+            "uv_height": "0.07519531"
+        },
+        "61":
+        {
+            "advance_x": "0.5859375",
+            "offset_x": "-0.125",
+            "offset_y": "0.0703125",
+            "width": "0.7382812",
+            "height": "0.5917969",
+            "uv_left_bottom_x": "0.1884766",
+            "uv_left_bottom_y": "0.9345703",
+            "uv_width": "0.08105469",
+            "uv_height": "0.06445312"
+        },
+        "62":
+        {
+            "advance_x": "0.5371094",
+            "offset_x": "-0.125",
+            "offset_y": "0.02148438",
+            "width": "0.6914062",
+            "height": "0.6894531",
+            "uv_left_bottom_x": "0.6416016",
+            "uv_left_bottom_y": "0.7304688",
+            "uv_width": "0.07519531",
+            "uv_height": "0.07519531"
+        },
+        "63":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.2099609",
+            "uv_left_bottom_y": "0.3222656",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "64":
+        {
+            "advance_x": "0.8789062",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "1.03125",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0",
+            "uv_left_bottom_y": "0.6015625",
+            "uv_width": "0.1132812",
+            "uv_height": "0.1074219"
+        },
+        "65":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.2099609",
+            "uv_left_bottom_y": "0.1074219",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "66":
+        {
+            "advance_x": "0.6855469",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8378906",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.2050781",
+            "uv_left_bottom_y": "0.4355469",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "67":
+        {
+            "advance_x": "0.5859375",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.7382812",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.5605469",
+            "uv_left_bottom_y": "0.7304688",
+            "uv_width": "0.08105469",
+            "uv_height": "0.1074219"
+        },
+        "68":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.1933594",
+            "uv_left_bottom_y": "0.6123047",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "69":
+        {
+            "advance_x": "0.5859375",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.7382812",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.5605469",
+            "uv_left_bottom_y": "0.8378906",
+            "uv_width": "0.08105469",
+            "uv_height": "0.1074219"
+        },
+        "70":
+        {
+            "advance_x": "0.5859375",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.7382812",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.5712891",
+            "uv_left_bottom_y": "0.2792969",
+            "uv_width": "0.08105469",
+            "uv_height": "0.1074219"
+        },
+        "71":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.1259766",
+            "uv_left_bottom_y": "0",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "72":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.1933594",
+            "uv_left_bottom_y": "0.7197266",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "73":
+        {
+            "advance_x": "0.2441406",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.3964844",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.7597656",
+            "uv_left_bottom_y": "0.1396484",
+            "uv_width": "0.04296875",
+            "uv_height": "0.1074219"
+        },
+        "74":
+        {
+            "advance_x": "0.5859375",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.7382812",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.4931641",
+            "uv_left_bottom_y": "0",
+            "uv_width": "0.08105469",
+            "uv_height": "0.1074219"
+        },
+        "75":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8847656",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0",
+            "uv_left_bottom_y": "0.7089844",
+            "uv_width": "0.09667969",
+            "uv_height": "0.1074219"
+        },
+        "76":
+        {
+            "advance_x": "0.5859375",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.7382812",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.5722656",
+            "uv_left_bottom_y": "0.3867188",
+            "uv_width": "0.08105469",
+            "uv_height": "0.1074219"
+        },
+        "77":
+        {
+            "advance_x": "0.9277344",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "1.080078",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0",
+            "uv_left_bottom_y": "0.1074219",
+            "uv_width": "0.1181641",
+            "uv_height": "0.1074219"
+        },
+        "78":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.2851562",
+            "uv_left_bottom_y": "0.6503906",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "79":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.2851562",
+            "uv_left_bottom_y": "0.5429688",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "80":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.2099609",
+            "uv_left_bottom_y": "0.2148438",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "81":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.1738281",
+            "width": "0.8359375",
+            "height": "1.03125",
+            "uv_left_bottom_x": "0.1181641",
+            "uv_left_bottom_y": "0.1074219",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1132812"
+        },
+        "82":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8378906",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.1181641",
+            "uv_left_bottom_y": "0.328125",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "83":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.1933594",
+            "uv_left_bottom_y": "0.8271484",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "84":
+        {
+            "advance_x": "0.6347656",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.7871094",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.4853516",
+            "uv_left_bottom_y": "0.2792969",
+            "uv_width": "0.0859375",
+            "uv_height": "0.1074219"
+        },
+        "85":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.2177734",
+            "uv_left_bottom_y": "0",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "86":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8847656",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0",
+            "uv_left_bottom_y": "0.8164062",
+            "uv_width": "0.09667969",
+            "uv_height": "0.1074219"
+        },
+        "87":
+        {
+            "advance_x": "0.9277344",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "1.080078",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0",
+            "uv_left_bottom_y": "0.2148438",
+            "uv_width": "0.1181641",
+            "uv_height": "0.1074219"
+        },
+        "88":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.1269531",
+            "offset_y": "-0.125",
+            "width": "0.8378906",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.2851562",
+            "uv_left_bottom_y": "0.7578125",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "89":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8378906",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.1181641",
+            "uv_left_bottom_y": "0.2207031",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "90":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.3886719",
+            "uv_left_bottom_y": "0.4296875",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "91":
+        {
+            "advance_x": "0.3417969",
+            "offset_x": "-0.125",
+            "offset_y": "-0.2714844",
+            "width": "0.4941406",
+            "height": "1.275391",
+            "uv_left_bottom_x": "0.7060547",
+            "uv_left_bottom_y": "0.1396484",
+            "uv_width": "0.05371094",
+            "uv_height": "0.1396484"
+        },
+        "92":
+        {
+            "advance_x": "0.5371094",
+            "offset_x": "-0.125",
+            "offset_y": "-0.1738281",
+            "width": "0.7089844",
+            "height": "1.080078",
+            "uv_left_bottom_x": "0.6416016",
+            "uv_left_bottom_y": "0.6123047",
+            "uv_width": "0.07714844",
+            "uv_height": "0.1181641"
+        },
+        "93":
+        {
+            "advance_x": "0.3417969",
+            "offset_x": "-0.125",
+            "offset_y": "-0.2714844",
+            "width": "0.4941406",
+            "height": "1.275391",
+            "uv_left_bottom_x": "0.6582031",
+            "uv_left_bottom_y": "0",
+            "uv_width": "0.05371094",
+            "uv_height": "0.1396484"
+        },
+        "94":
+        {
+            "advance_x": "0.4882812",
+            "offset_x": "-0.1289062",
+            "offset_y": "0.4609375",
+            "width": "0.7050781",
+            "height": "0.5429688",
+            "uv_left_bottom_x": "0.1132812",
+            "uv_left_bottom_y": "0.6123047",
+            "uv_width": "0.07714844",
+            "uv_height": "0.05957031"
+        },
+        "95":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.1992188",
+            "width": "0.8378906",
+            "height": "0.3242188",
+            "uv_left_bottom_x": "0",
+            "uv_left_bottom_y": "0.9238281",
+            "uv_width": "0.09179688",
+            "uv_height": "0.03515625"
+        },
+        "96":
+        {
+            "advance_x": "0.5371094",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.25",
+            "height": "0.25",
+            "uv_left_bottom_x": "0.1132812",
+            "uv_left_bottom_y": "0.671875",
+            "uv_width": "0.02734375",
+            "uv_height": "0.02734375"
+        },
+        "97":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0.09667969",
+            "uv_left_bottom_y": "0.9023438",
+            "uv_width": "0.09179688",
+            "uv_height": "0.0859375"
+        },
+        "98":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.3095703",
+            "uv_left_bottom_y": "0",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "99":
+        {
+            "advance_x": "0.5859375",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.7382812",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0.5742188",
+            "uv_left_bottom_y": "0",
+            "uv_width": "0.08105469",
+            "uv_height": "0.0859375"
+        },
+        "100":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.3017578",
+            "uv_left_bottom_y": "0.3222656",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "101":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0.46875",
+            "uv_left_bottom_y": "0.6445312",
+            "uv_width": "0.09179688",
+            "uv_height": "0.0859375"
+        },
+        "102":
+        {
+            "advance_x": "0.2929688",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.4941406",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.6416016",
+            "uv_left_bottom_y": "0.8916016",
+            "uv_width": "0.05371094",
+            "uv_height": "0.1074219"
+        },
+        "103":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.3203125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.296875",
+            "uv_left_bottom_y": "0.4296875",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "104":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.3769531",
+            "uv_left_bottom_y": "0.5371094",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "105":
+        {
+            "advance_x": "0.2441406",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.3964844",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.765625",
+            "uv_left_bottom_y": "0",
+            "uv_width": "0.04296875",
+            "uv_height": "0.1074219"
+        },
+        "106":
+        {
+            "advance_x": "0.2441406",
+            "offset_x": "-0.2226562",
+            "offset_y": "-0.3203125",
+            "width": "0.4941406",
+            "height": "1.177734",
+            "uv_left_bottom_x": "0.7119141",
+            "uv_left_bottom_y": "0.8056641",
+            "uv_width": "0.05371094",
+            "uv_height": "0.1289062"
+        },
+        "107":
+        {
+            "advance_x": "0.6347656",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.3769531",
+            "uv_left_bottom_y": "0.6445312",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "108":
+        {
+            "advance_x": "0.2441406",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.3964844",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.7607422",
+            "uv_left_bottom_y": "0.2470703",
+            "uv_width": "0.04296875",
+            "uv_height": "0.1074219"
+        },
+        "109":
+        {
+            "advance_x": "0.9277344",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "1.080078",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0",
+            "uv_left_bottom_y": "0.4082031",
+            "uv_width": "0.1181641",
+            "uv_height": "0.0859375"
+        },
+        "110":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0.46875",
+            "uv_left_bottom_y": "0.9023438",
+            "uv_width": "0.09179688",
+            "uv_height": "0.0859375"
+        },
+        "111":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0.4853516",
+            "uv_left_bottom_y": "0.1933594",
+            "uv_width": "0.09179688",
+            "uv_height": "0.0859375"
+        },
+        "112":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.3203125",
+            "width": "0.8359375",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.3769531",
+            "uv_left_bottom_y": "0.7519531",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "113":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.3203125",
+            "width": "0.8847656",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.09667969",
+            "uv_left_bottom_y": "0.7089844",
+            "uv_width": "0.09667969",
+            "uv_height": "0.1074219"
+        },
+        "114":
+        {
+            "advance_x": "0.4394531",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.640625",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0.6416016",
+            "uv_left_bottom_y": "0.8056641",
+            "uv_width": "0.0703125",
+            "uv_height": "0.0859375"
+        },
+        "115":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0.4853516",
+            "uv_left_bottom_y": "0.1074219",
+            "uv_width": "0.09179688",
+            "uv_height": "0.0859375"
+        },
+        "116":
+        {
+            "advance_x": "0.3417969",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.4941406",
+            "height": "0.8847656",
+            "uv_left_bottom_x": "0.71875",
+            "uv_left_bottom_y": "0.5263672",
+            "uv_width": "0.05371094",
+            "uv_height": "0.09667969"
+        },
+        "117":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0.4804688",
+            "uv_left_bottom_y": "0.4296875",
+            "uv_width": "0.09179688",
+            "uv_height": "0.0859375"
+        },
+        "118":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8847656",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0.09667969",
+            "uv_left_bottom_y": "0.8164062",
+            "uv_width": "0.09667969",
+            "uv_height": "0.0859375"
+        },
+        "119":
+        {
+            "advance_x": "0.9277344",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "1.080078",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0",
+            "uv_left_bottom_y": "0.3222656",
+            "uv_width": "0.1181641",
+            "uv_height": "0.0859375"
+        },
+        "120":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.1269531",
+            "offset_y": "-0.125",
+            "width": "0.8378906",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0.46875",
+            "uv_left_bottom_y": "0.8164062",
+            "uv_width": "0.09179688",
+            "uv_height": "0.0859375"
+        },
+        "121":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.3203125",
+            "width": "0.8378906",
+            "height": "0.9824219",
+            "uv_left_bottom_x": "0.3017578",
+            "uv_left_bottom_y": "0.1074219",
+            "uv_width": "0.09179688",
+            "uv_height": "0.1074219"
+        },
+        "122":
+        {
+            "advance_x": "0.6835938",
+            "offset_x": "-0.125",
+            "offset_y": "-0.125",
+            "width": "0.8359375",
+            "height": "0.7871094",
+            "uv_left_bottom_x": "0.46875",
+            "uv_left_bottom_y": "0.7304688",
+            "uv_width": "0.09179688",
+            "uv_height": "0.0859375"
+        },
+        "123":
+        {
+            "advance_x": "0.3417969",
+            "offset_x": "-0.125",
+            "offset_y": "-0.2714844",
+            "width": "0.4941406",
+            "height": "1.275391",
+            "uv_left_bottom_x": "0.6533203",
+            "uv_left_bottom_y": "0.3066406",
+            "uv_width": "0.05371094",
+            "uv_height": "0.1396484"
+        },
+        "124":
+        {
+            "advance_x": "0.2441406",
+            "offset_x": "-0.125",
+            "offset_y": "-0.2714844",
+            "width": "0.3964844",
+            "height": "1.275391",
+            "uv_left_bottom_x": "0.71875",
+            "uv_left_bottom_y": "0.6230469",
+            "uv_width": "0.04296875",
+            "uv_height": "0.1396484"
+        },
+        "125":
+        {
+            "advance_x": "0.3417969",
+            "offset_x": "-0.125",
+            "offset_y": "-0.2714844",
+            "width": "0.4941406",
+            "height": "1.275391",
+            "uv_left_bottom_x": "0.6523438",
+            "uv_left_bottom_y": "0.1669922",
+            "uv_width": "0.05371094",
+            "uv_height": "0.1396484"
+        },
+        "126":
+        {
+            "advance_x": "0.4394531",
+            "offset_x": "-0.125",
+            "offset_y": "0.08007812",
+            "width": "0.5917969",
+            "height": "0.3769531",
+            "uv_left_bottom_x": "0",
+            "uv_left_bottom_y": "0.9589844",
+            "uv_width": "0.06445312",
+            "uv_height": "0.04101562"
+        }
+    }
+}

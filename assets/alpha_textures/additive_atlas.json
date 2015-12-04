@@ -1,0 +1,80 @@
+{
+    "size": {
+        "width": "1024",
+        "height": "1024"
+    },
+    "subtextures": {
+        "arrow.png": {
+            "position_x": "0",
+            "position_y": "449",
+            "width": "256",
+            "height": "256"
+        },
+        "black_hole.png": {
+            "position_x": "0",
+            "position_y": "64",
+            "width": "385",
+            "height": "385"
+        },
+        "bullet.png": {
+            "position_x": "320",
+            "position_y": "833",
+            "width": "64",
+            "height": "64"
+        },
+        "dash_line.png": {
+            "position_x": "384",
+            "position_y": "705",
+            "width": "64",
+            "height": "256"
+        },
+        "laser_beam.png": {
+            "position_x": "385",
+            "position_y": "64",
+            "width": "64",
+            "height": "256"
+        },
+        "plasma.png": {
+            "position_x": "256",
+            "position_y": "833",
+            "width": "64",
+            "height": "128"
+        },
+        "repulsor.png": {
+            "position_x": "0",
+            "position_y": "705",
+            "width": "256",
+            "height": "256"
+        },
+        "skull_scaled.png": {
+            "position_x": "256",
+            "position_y": "705",
+            "width": "128",
+            "height": "128"
+        },
+        "spark.png": {
+            "position_x": "320",
+            "position_y": "897",
+            "width": "64",
+            "height": "64"
+        },
+        "spring_beam.png": {
+            "position_x": "448",
+            "position_y": "705",
+            "width": "64",
+            "height": "256"
+        },
+        "target_indicator.png": {
+            "position_x": "256",
+            "position_y": "449",
+            "width": "256",
+            "height": "256"
+        },
+        "trail_2.png": {
+            "position_x": "0",
+            "position_y": "0",
+            "width": "512",
+            "height": "64"
+        }
+    }
+}
