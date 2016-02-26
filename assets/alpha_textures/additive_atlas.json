@@ -17,26 +17,38 @@
             "height": "385"
         },
         "bullet.png": {
-            "position_x": "320",
-            "position_y": "833",
+            "position_x": "256",
+            "position_y": "953",
             "width": "64",
             "height": "64"
         },
         "dash_line.png": {
-            "position_x": "384",
-            "position_y": "705",
-            "width": "64",
-            "height": "256"
-        },
-        "laser_beam.png": {
             "position_x": "385",
             "position_y": "64",
             "width": "64",
             "height": "256"
         },
-        "plasma.png": {
+        "flame.png": {
+            "position_x": "376",
+            "position_y": "833",
+            "width": "92",
+            "height": "92"
+        },
+        "flash.png": {
             "position_x": "256",
             "position_y": "833",
+            "width": "120",
+            "height": "120"
+        },
+        "laser_beam.png": {
+            "position_x": "449",
+            "position_y": "64",
+            "width": "64",
+            "height": "256"
+        },
+        "plasma.png": {
+            "position_x": "384",
+            "position_y": "705",
             "width": "64",
             "height": "128"
         },
@@ -53,13 +65,19 @@
             "height": "128"
         },
         "spark.png": {
-            "position_x": "320",
-            "position_y": "897",
-            "width": "64",
-            "height": "64"
+            "position_x": "0",
+            "position_y": "961",
+            "width": "128",
+            "height": "32"
+        },
+        "spark_long.png": {
+            "position_x": "128",
+            "position_y": "961",
+            "width": "120",
+            "height": "48"
         },
         "spring_beam.png": {
-            "position_x": "448",
+            "position_x": "468",
             "position_y": "705",
             "width": "64",
             "height": "256"

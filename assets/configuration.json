@@ -1,54 +1,37 @@
 {
-    "pad_configurations": {
-        "0": [
-            {
-                "type": "BUTTON",
-                "button": "9"
-            },
-            {
-                "type": "AXIS",
-                "axis": "0",
-                "positive_value": "true"
-            },
-            {
-                "type": "AXIS",
-                "axis": "1",
-                "positive_value": "false"
-            },
-            {
-                "type": "AXIS",
-                "axis": "2",
-                "positive_value": "true"
-            },
-            {
-                "type": "AXIS",
-                "axis": "3",
-                "positive_value": "false"
-            },
-            {
-                "type": "BUTTON",
-                "button": "5"
-            },
-            {
-                "type": "BUTTON",
-                "button": "4"
-            },
-            {
-                "type": "BUTTON",
-                "button": "7"
-            },
-            {
-                "type": "BUTTON",
-                "button": "6"
-            },
-            {
-                "type": "BUTTON",
-                "button": "1"
-            },
-            {
-                "type": "BUTTON",
-                "button": "0"
-            }
-        ]
-    }
+    "keyboard_mouse_configuration": [
+        {
+            "type": "KEY",
+            "key": "108"
+        },
+        {
+            "type": "MOUSE_BUTTON",
+            "mouse_button": "1"
+        },
+        {
+            "type": "KEY",
+            "key": "113"
+        },
+        {
+            "type": "KEY",
+            "key": "119"
+        },
+        {
+            "type": "KEY",
+            "key": "101"
+        },
+        {
+            "type": "KEY",
+            "key": "97"
+        },
+        {
+            "type": "KEY",
+            "key": "115"
+        },
+        {
+            "type": "KEY",
+            "key": "100"
+        }
+    ],
+    "pad_configurations": ""
 }
