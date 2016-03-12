@@ -47,7 +47,7 @@
             "height": "128"
         },
         "particle.png": {
-            "position_x": "512",
+            "position_x": "576",
             "position_y": "1924",
             "width": "64",
             "height": "64"
@@ -59,31 +59,37 @@
             "height": "256"
         },
         "skill_barrage.png": {
-            "position_x": "448",
+            "position_x": "512",
             "position_y": "1924",
             "width": "64",
             "height": "64"
         },
         "skill_black_hole.png": {
-            "position_x": "320",
+            "position_x": "384",
             "position_y": "1924",
             "width": "64",
             "height": "64"
         },
         "skill_boomerang.png": {
-            "position_x": "128",
+            "position_x": "192",
             "position_y": "1924",
             "width": "64",
             "height": "64"
         },
-        "skill_grenade.png": {
+        "skill_dodge_roll.png": {
             "position_x": "0",
             "position_y": "1924",
             "width": "64",
             "height": "64"
         },
-        "skill_homing_missle.png": {
+        "skill_grenade.png": {
             "position_x": "64",
+            "position_y": "1924",
+            "width": "64",
+            "height": "64"
+        },
+        "skill_homing_missle.png": {
+            "position_x": "128",
             "position_y": "1924",
             "width": "64",
             "height": "64"
@@ -95,13 +101,13 @@
             "height": "256"
         },
         "skill_question_mark.png": {
-            "position_x": "192",
+            "position_x": "256",
             "position_y": "1924",
             "width": "64",
             "height": "64"
         },
         "skill_rocket.png": {
-            "position_x": "256",
+            "position_x": "320",
             "position_y": "1924",
             "width": "64",
             "height": "64"
@@ -113,7 +119,7 @@
             "height": "256"
         },
         "skill_shotgun.png": {
-            "position_x": "384",
+            "position_x": "448",
             "position_y": "1924",
             "width": "64",
             "height": "64"
@@ -131,7 +137,7 @@
             "height": "256"
         },
         "smoke.png": {
-            "position_x": "576",
+            "position_x": "640",
             "position_y": "1924",
             "width": "64",
             "height": "64"
